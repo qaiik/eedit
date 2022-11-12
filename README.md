@@ -170,6 +170,7 @@ editor.setLanguage("python") //https://prismjs.com/download.html#themes=prism
 ```
 <br><br>
 Languages supported (thanks to prism):
+- plaintext
 - abap
 - abnf
 - actionscript
