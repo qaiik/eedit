@@ -166,7 +166,7 @@ editor.p.innerText = editor.p.innerText.split("\n").slice(0,5).join("\n")
 And lastly, you can change the language for syntax highlighting.
 
 ```js
-editor.setLanguage("python") //https://prismjs.com/download.html#themes=prism
+editor.setLanguage("python")
 ```
 <br><br>
 Languages supported (thanks to prism):
