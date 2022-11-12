@@ -8,5 +8,5 @@ document.head.appendChild(prismElement)
 
 let prismcssElement = document.createElement("link")
 prismcssElement.rel = "stylesheet"
-prismcssElement.href = "//eeditbundle.qaiik.repl.co/prism.js"
+prismcssElement.href = "//eeditbundle.qaiik.repl.co/prism.css"
 document.head.appendChild(prismcssElement)
