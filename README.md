@@ -8,7 +8,7 @@ The easiest way to install the library is to include a script tag as seen below.
 
 <br>
 This will include the Prism.js and Prism.css dependencies automatically, but will not make any requests.<br><br>
-## Basic use
+**Basic use*
 
 ```js
 const container = document.querySelector("#editor");
